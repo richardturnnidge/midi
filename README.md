@@ -6,6 +6,8 @@ Uses a Python software midi to serial bridge on my Mac to send the midi data int
 
 ![](midi.png)
 
+Latest binary is available, latest code is not yet.
+
 Video here:
 
 https://youtu.be/9bcqbtdHnz8
